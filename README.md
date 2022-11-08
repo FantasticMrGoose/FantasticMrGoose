@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FantasticMrGoose
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... jeffreyzhou1224@gmail.com
+- 👀 I’m interested in spatial data analysis 
+- 📫 How to reach me jeffreyzhou1224@gmail.com
 
 <!---
 FantasticMrGoose/FantasticMrGoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
